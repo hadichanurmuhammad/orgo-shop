@@ -1386,7 +1386,7 @@ Main Banner Area CSS
 }
 
 .main-banner-item {
-  background-image: url(../../assets/img/main-banner-bg-1.jpg);
+  background-image: url(../img/main-banner-bg-1.jpg);
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -1396,7 +1396,7 @@ Main Banner Area CSS
 }
 
 .main-banner-item.banner-item-two {
-  background-image: url(../../assets/img/main-banner-bg-2.jpg);
+  background-image: url(../img/main-banner-bg-2.jpg);
   padding-top: 50px;
   padding-bottom: 0;
   overflow: hidden;
@@ -1462,7 +1462,7 @@ Main Slider Area CSS
 }
 
 .main-slider-item {
-  background-image: url(../../assets/img/main-slider/slider-bg-1.jpg);
+  background-image: url(../img/main-slider/slider-bg-1.jpg);
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -1948,7 +1948,7 @@ Top Products Area CSS
 Detox Water Area CSS
 =================================================*/
 .detox-water-area {
-  background-image: url(../../assets/img/detox-water/detox-water-bg.jpg);
+  background-image: url(../img/detox-water/detox-water-bg.jpg);
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -2139,7 +2139,7 @@ Department Area CSS
 Why Choose Area CSS
 =================================================*/
 .why-choose-area {
-  background-image: url(../../assets/img/why-choose-bg.jpg);
+  background-image: url(../img/why-choose-bg.jpg);
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -2147,7 +2147,7 @@ Why Choose Area CSS
 }
 
 .why-choose-area.choose-item-two {
-  background-image: url(../../assets/img/why-choose-bg-2.jpg);
+  background-image: url(../img/why-choose-bg-2.jpg);
 }
 
 .why-choose-area.choose-item-two .why-choose-item {
@@ -2485,7 +2485,7 @@ Featured Products Area CSS
 Testimonial Area CSS
 =================================================*/
 .testimonial-area {
-  background-image: url(../../assets/img/testimonial-bg.jpg);
+  background-image: url(../img/testimonial-bg.jpg);
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -2613,7 +2613,7 @@ Testimonial Area CSS
 Overview Area CSS
 =================================================*/
 .overview-area {
-  background-image: url(../../assets/img/overview-bg.jpg);
+  background-image: url(../img/overview-bg.jpg);
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -3206,7 +3206,7 @@ Video Area CSS
 =================================================*/
 .video-area {
   text-align: center;
-  background-image: url(../../assets/img/video-bg.jpg);
+  background-image: url(../img/video-bg.jpg);
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -3482,7 +3482,7 @@ Team Area CSS
 Client Area CSS
 =================================================*/
 .client-area {
-  background-image: url(../../assets/img/client-bg.jpg);
+  background-image: url(../img/client-bg.jpg);
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -3638,7 +3638,7 @@ Special Features Area CSS
 Services Area CSS
 =================================================*/
 .services-area.bg-image {
-  background-image: url(../../assets/img/services-bg.jpg);
+  background-image: url(../img/services-bg.jpg);
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -3876,7 +3876,7 @@ Page Banner CSS
 .page-banner-area {
   position: relative;
   z-index: 1;
-  background-image: url(../../assets/img/page-banner/page-banner-1.jpg);
+  background-image: url(../img/page-banner/page-banner-1.jpg);
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -3900,19 +3900,19 @@ Page Banner CSS
 }
 
 .page-banner-area.item-bg1 {
-  background-image: url(../../assets/img/page-banner/page-banner-2.jpg);
+  background-image: url(../img/page-banner/page-banner-2.jpg);
 }
 
 .page-banner-area.item-bg2 {
-  background-image: url(../../assets/img/page-banner/page-banner-3.jpg);
+  background-image: url(../img/page-banner/page-banner-3.jpg);
 }
 
 .page-banner-area.item-bg3 {
-  background-image: url(../../assets/img/page-banner/page-banner-4.jpg);
+  background-image: url(../img/page-banner/page-banner-4.jpg);
 }
 
 .page-banner-area.item-bg4 {
-  background-image: url(../../assets/img/page-banner/page-banner-5.jpg);
+  background-image: url(../img/page-banner/page-banner-5.jpg);
 }
 
 .page-banner-content {
@@ -5046,27 +5046,27 @@ Widget Sidebar CSS
 }
 
 .widget-area .widget_orgo_posts_thumb .item .thumb .fullimage.bg1 {
-  background-image: url(../../assets/img/blog/blog-1.jpg);
+  background-image: url(../img/blog/blog-1.jpg);
 }
 
 .widget-area .widget_orgo_posts_thumb .item .thumb .fullimage.bg2 {
-  background-image: url(../../assets/img/blog/blog-2.jpg);
+  background-image: url(../img/blog/blog-2.jpg);
 }
 
 .widget-area .widget_orgo_posts_thumb .item .thumb .fullimage.bg3 {
-  background-image: url(../../assets/img/blog/blog-3.jpg);
+  background-image: url(../img/blog/blog-3.jpg);
 }
 
 .widget-area .widget_orgo_posts_thumb .item .thumb .fullimage.bg4 {
-  background-image: url(../../assets/img/blog/blog-7.jpg);
+  background-image: url(../img/blog/blog-7.jpg);
 }
 
 .widget-area .widget_orgo_posts_thumb .item .thumb .fullimage.bg5 {
-  background-image: url(../../assets/img/blog/blog-8.jpg);
+  background-image: url(../img/blog/blog-8.jpg);
 }
 
 .widget-area .widget_orgo_posts_thumb .item .thumb .fullimage.bg6 {
-  background-image: url(../../assets/img/blog/blog-9.jpg);
+  background-image: url(../img/blog/blog-9.jpg);
 }
 
 .widget-area .widget_orgo_posts_thumb .item .info {
@@ -5257,15 +5257,15 @@ Widget Sidebar CSS
 }
 
 .widget-area .widget_popular_products .item .thumb .fullimage.bg1 {
-  background-image: url(../../assets/img/top-products/top-products-1.jpg);
+  background-image: url(../img/top-products/top-products-1.jpg);
 }
 
 .widget-area .widget_popular_products .item .thumb .fullimage.bg2 {
-  background-image: url(../../assets/img/top-products/top-products-2.jpg);
+  background-image: url(../img/top-products/top-products-2.jpg);
 }
 
 .widget-area .widget_popular_products .item .thumb .fullimage.bg3 {
-  background-image: url(../../assets/img/top-products/top-products-3.jpg);
+  background-image: url(../img/top-products/top-products-3.jpg);
 }
 
 .widget-area .widget_popular_products .item .info {
@@ -5786,7 +5786,7 @@ Checkout Area CSS
 Product Details Area CSS
 =================================================*/
 .product-details-image {
-  background-image: url(../../assets/img/top-products/top-products-7.jpg);
+  background-image: url(../img/top-products/top-products-7.jpg);
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -7322,7 +7322,7 @@ Modal CSS
 }
 
 .productsQuickView .modal-content .products-image {
-  background-image: url(../../assets/img/top-products/top-products-4.jpg);
+  background-image: url(../img/top-products/top-products-4.jpg);
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
